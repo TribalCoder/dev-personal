@@ -1,5 +1,99 @@
 # Daily interests
 
+https://ziplyfiber.com/
+
+https://www.amazon.com/MikroTik-Gigabit-Ethernet-Router-RB760iGS/dp/B07F7HDRKX/ref=asc_df_B07F7HDRKX/?tag=hyprod-20&linkCode=df0&hvadid=319955522114&hvpos=&hvnetw=g&hvrand=5802490641945181639&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033296&hvtargid=pla-653387312762&psc=1
+
+UniFi
+
+$50
+100 mbps
+
+Linux server 192.168.200.29
+
+https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8#asynchronous-streams
+https://github.com/LTD-Team/data-warehouse/blob/16ea57ccadd52ca67ca4918b2bd1173c902a4c2c/lambda/v100k-same-day-changes-sync-redshift/src/v100kSameDayChangesSyncRedshift/Infrastructure/SqlHelper.cs
+
+https://www.toptal.com/developers/gitignore
+http://gitignore.io/
+
+https://hubitat.com/
+https://zigbeealliance.org/solution/zigbee/
+
+[https://thehighwire.com/](https://thehighwire.com/)
+[https://www.onewashington.com/](https://www.onewashington.com/)
+
+### Bourbon Whiskey
+- old forester ($70)
+- Blantons (globe with a horse on top)
+- wookford
+- knob
+- papy van winkle ($4000)
+
+### Donner lake/tragedy
+[https://www.fhwa.dot.gov/infrastructure/back0104.cfm](https://www.fhwa.dot.gov/infrastructure/back0104.cfm)
+
+### Covid-19 pandemic
+[https://www.theatlantic.com/health/archive/2021/08/delta-has-changed-pandemic-endgame/619726/]
+
+### De'Longhi espresso machine (recommended by Tony)
+[https://www.google.com/search?q=delonghi+magnifica&oq=delonghi+magnifica&aqs=chrome..69i57j0i512l9.5475j0j7&sourceid=chrome&ie=UTF-8]
+keywords: coffee machine espresso
+
+### 5G connectivity
+[https://www.peplink.com/](https://www.peplink.com/)
+[https://cradlepoint.com/](https://cradlepoint.com/)
+
+### Starlink connectivity
+[https://www.starlink.com/](https://www.starlink.com/)
+
+```
+    Take pride in your choices, not your gifts. ... This is something that's super-important for young people to understand, and for parents to preach to young people. It's really easy for a talented young person to take pride in their gifts: "I'm really athletic," or "I'm really smart," or "I'm really good at math."
+
+    That's fine. You should celebrate your gifts. You should be happy. But you can't be proud of them ... What you can be proud of is your choices.
+
+    How did you decide to use your gifts? Did you study hard? Did you work hard? Did you practice? The people who excel combine gifts and hard work, and the hard work part is a choice. You get to decide that. And that is something that when you're looking back on your life, you will be very proud of.
+```
+
+### Dodge Ram
+[V6 4x4](https://www.ramtrucks.com/bmo.ram_1500_dt.2021.html#/build/summary/98065/CUT202120DT6H41A/2TZ/APA,PXJ,X8,ERG,DFT,DMC,DSH,Z6A,TCP,WBB,E1,A63,AWL,AHC,XH4,XBM,XHC,UAM,23Z)
+
+### Rip DVDs
+[https://github.com/automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine)
+
+### windsurfing
+[https://www.nbwindsurfing.com/shop/Windsurf/Windsurf-BoardRig-Packages/p/Starboard-Rio-Classic-Rig-Package-x55246752.htm](https://www.nbwindsurfing.com/shop/Windsurf/Windsurf-BoardRig-Packages/p/Starboard-Rio-Classic-Rig-Package-x55246752.htm)
+
+### Mental Models: How to train your brain to think in new ways
+[https://getpocket.com/explore/item/mental-models-how-to-train-your-brain-to-think-in-new-ways?utm_source=pocket-newtab](https://getpocket.com/explore/item/mental-models-how-to-train-your-brain-to-think-in-new-ways?utm_source=pocket-newtab)
+
+### Don Box has left Microsoft
+[https://www.zdnet.com/article/microsoft-technical-fellow-don-box-has-left-the-building/](https://www.zdnet.com/article/microsoft-technical-fellow-don-box-has-left-the-building/)
+
+### Wyze outdoor camera
+[https://wyze.com/](https://wyze.com/)
+
+### Coolest island ever
+[https://www.amusingplanet.com/2014/02/the-islet-of-vila-franca-do-campo.html](https://www.amusingplanet.com/2014/02/the-islet-of-vila-franca-do-campo.html)
+
+### Data visualization
+[https://looker.com/](https://looker.com/)
+
+### Bad habits you must break
+https://getpocket.com/explore/item/bad-habits-you-must-break-immediately-to-improve-your-life-in-the-next-100-days?utm_source=pocket-newtab
+
+### George Soros is a Nazi collaborator
+[https://cidisrael.org/details/20200604anything-for-a-buck-including-helping-nazis](https://cidisrael.org/details/20200604anything-for-a-buck-including-helping-nazis)
+
+### Internet via 4G
+[https://www.peplink.com/products/max-single-cellular-br1-mk2-router/](https://www.peplink.com/products/max-single-cellular-br1-mk2-router/)
+
+### cooking bacon
+[https://getpocket.com/explore/item/we-tried-8-methods-of-cooking-bacon-and-found-an-absolute-winner?utm_source=pocket-newtab](https://getpocket.com/explore/item/we-tried-8-methods-of-cooking-bacon-and-found-an-absolute-winner?utm_source=pocket-newtab)
+
+### SAD light
+[https://www.google.com/search?q=sad+light&oq=SAD+light&aqs=chrome.0.0l8.407j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=sad+light&oq=SAD+light&aqs=chrome.0.0l8.407j0j7&sourceid=chrome&ie=UTF-8)
+
 #### How do I revert a Git repository to a previous commit?
 ```
 git revert --no-commit 0766c053..HEAD
